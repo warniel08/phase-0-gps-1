@@ -7,3 +7,5 @@ this is something *italic*
 > this is a block quote
 
 click [here](http://google.com)
+
+this is a conflict
