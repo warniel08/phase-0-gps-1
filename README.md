@@ -18,6 +18,6 @@
 ###git branch
 * shows us our different branches and which one we're currently in
 
-a###git checkout
+###git checkout
 * we can create a new branch using -b, we can also navigate between branches
 
